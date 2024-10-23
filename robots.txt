@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bowenji.github.io/sitemap.xml
+Sitemap: https://bobo661.github.io/sitemap.xml
